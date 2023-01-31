@@ -1,0 +1,110 @@
+[
+  {
+    "title": "The Martian",
+    "synopsis": "An astronaut becomes stranded on Mars after his team assume him dead, and must rely on his ingenuity to find a way to signal to Earth that he is alive and can survive until a potential rescue.",
+    "trailerUrl": "https://www.youtube.com/embed/ej3ioOneTy8",
+    "imgUrl": "https://static.hd-trailers.net/images/the-martian-104112-poster-xlarge-resized.jpg",
+    "rating": 9,
+    "genreId": 1,
+    "MongoId": "63811cab4cd960d8f020f62c"
+  },
+  {
+    "title": "Kikujiro",
+    "synopsis": "A young, naive boy sets out alone on the road to find his wayward mother. Soon he finds an unlikely protector in a crotchety man and the two have a series of unexpected adventures along the way.",
+    "trailerUrl": "https://www.youtube.com/embed/oIObK6AV-28",
+    "imgUrl": "https://resizing.flixster.com/vt7cJox_Iy8oAd6PPTwvqli5PwA=/206x305/v2/https://flxt.tmsimg.com/assets/p25565_v_v8_aa.jpg",
+    "rating": 9,
+    "genreId": 7,
+    "MongoId": "63811cab4cd960d8f020f62c"
+  },
+  {
+    "title": "Cure",
+    "synopsis": "A wave of gruesome murders is sweeping Tokyo. The only connection is a bloody X carved into the neck of each of the victims. In each case, the murderer is found near the victim and remembers nothing of the crime. Detective Takabe and psychologist Sakuma are called in to figure out the connection, but their investigation goes nowhere…",
+    "trailerUrl": "https://www.youtube.com/embed/vnP71l5vSSY",
+    "imgUrl": "https://i.mydramalist.com/WDvpO_4f.jpg",
+    "rating": 10,
+    "genreId": 5,
+    "MongoId": "63811cab4cd960d8f020f62c"
+  },
+  {
+    "title": "Chungking Express",
+    "synopsis": "Two melancholy Hong Kong policemen fall in love: one with a mysterious female underworld figure, the other with a beautiful and ethereal waitress at a late-night restaurant he frequents.",
+    "trailerUrl": "https://www.youtube.com/embed/OPCug9jyG9k",
+    "imgUrl": "https://lsf.go.id/wp-content/uploads/2021/04/Chungking-Express.jpeg",
+    "rating": 9,
+    "genreId": 6,
+    "MongoId": "63811cab4cd960d8f020f62c"
+  },
+  {
+    "title": "Zodiac",
+    "synopsis": "Between 1968 and 1983, a San Francisco cartoonist becomes an amateur detective obsessed with tracking down the Zodiac Killer, an unidentified individual who terrorizes Northern California with a killing spree.",
+    "trailerUrl": "https://www.youtube.com/embed/yNncHPl1UXg",
+    "imgUrl": "https://flxt.tmsimg.com/assets/p162782_p_v8_au.jpg",
+    "rating": 10,
+    "genreId": 5,
+    "MongoId": "63811d764cd960d8f020f62d"
+  },
+  {
+    "title": "Kidnap",
+    "synopsis": "A mother stops at nothing to recover her kidnapped son.",
+    "trailerUrl": "https://www.youtube.com/embed/l2DP5I5HO_k",
+    "imgUrl": "https://www.elozetes.hu/img/w300/9CabD3j9PrjRY054fL0WJuEcXHZ.jpg",
+    "rating": 3,
+    "genreId": 5,
+    "MongoId": "63811d764cd960d8f020f62d"
+  },
+  {
+    "title": "Jungle Cruise",
+    "synopsis": "Based on Disneyland's theme park ride where a small riverboat takes a group of travelers through a jungle filled with dangerous animals and reptiles but with a supernatural element.",
+    "trailerUrl": "https://www.youtube.com/embed/f_HvoipFcA8",
+    "imgUrl": "https://lumiere-a.akamaihd.net/v1/images/p_junglecruise_21740_v2_bb7f0ae4.jpeg",
+    "rating": 5,
+    "genreId": 2,
+    "MongoId": "63811d764cd960d8f020f62d"
+  },
+  {
+    "title": "Linda Linda Linda Full Movie",
+    "synopsis": "Film about Girl School Band",
+    "trailerUrl": "https://www.youtube.com/embed/ywQxHJttjbg",
+    "imgUrl": "https://imgsrc.cineserie.com/2016/05/2094591.jpg?ver=1",
+    "rating": 8,
+    "genreId": 2,
+    "MongoId": "63811d764cd960d8f020f62d"
+  },
+  {
+    "title": "Swing Girls Full Movie",
+    "synopsis": "A Japanese Swing Orchestra trying their best to perform",
+    "trailerUrl": "https://www.youtube.com/embed/FM0sB-6W9Sw",
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BNjQ3YzA5MzUtMWQ3Ni00NWZiLTkxNWYtNjYzYzA4OTRkYzMxXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_.jpg",
+    "rating": 8,
+    "genreId": 2,
+    "MongoId": "63811d764cd960d8f020f62d"
+  },
+  {
+    "title": "Death Bell Full Movie",
+    "synopsis": "a fun horror school story",
+    "trailerUrl": "https://www.youtube.com/embed/Y8GlthAS3iE",
+    "imgUrl": "https://2.bp.blogspot.com/-MnVotlNhR1E/X0ORuN8A2HI/AAAAAAAAFQE/c8o5V3t8TkEvB9j1fKPL41lnKIisgGdVACLcBGAsYHQ/s1200/Deathbell.jpg",
+    "rating": 7,
+    "genreId": 5,
+    "MongoId": "63811d764cd960d8f020f62d"
+  },
+  {
+    "title": "Windstruck Full Movie",
+    "synopsis": "A korean romance film",
+    "trailerUrl": "https://www.youtube.com/embed/pzAfIJU0Njo",
+    "imgUrl": "https://asianwiki.com/images/8/80/Windstruck-p1.jpg",
+    "rating": 8,
+    "genreId": 6,
+    "MongoId": "63811d764cd960d8f020f62d"
+  },
+  {
+    "title": "Survival Family Full Movie",
+    "synopsis": "When the blackout strucks...",
+    "trailerUrl": "https://www.youtube.com/embed/jTa51lcYTvM",
+    "imgUrl": "https://m.media-amazon.com/images/M/MV5BNWNhZmNhYzAtN2U2NC00NDYwLWI2YTctNmJjNWNmZGRiODhmXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg",
+    "rating": 8,
+    "genreId": 7,
+    "MongoId": "63811d764cd960d8f020f62d"
+  }
+]

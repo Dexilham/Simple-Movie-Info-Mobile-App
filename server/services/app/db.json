@@ -1,0 +1,151 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Straw Dogs",
+      "slug": "straw-dogs",
+      "synopsis": "Nunc purus. Phasellus in felis. Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
+      "trailerUrl": "https://www.youtube.com/watch?v=D1G2iLSzOe8&list=PL1DD10E84B9B08A35&index=5",
+      "imgUrl": "http://dummyimage.com/200x300.png/cc0000/ffffff",
+      "rating": 3,
+      "genreId": 2,
+      "authorId": 2,
+      "createdAt": "2022-06-22 08:55:10",
+      "updatedAt": "2021-12-29 06:29:34"
+    },
+    {
+      "id": 2,
+      "title": "Mayerling",
+      "slug": "mayerling",
+      "synopsis": "Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo. In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus. Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi. Cras non velit nec nisi vulputate nonummy.",
+      "trailerUrl": "https://www.youtube.com/watch?v=W3E74j_xFtg&list=PL1DD10E84B9B08A35&index=6",
+      "imgUrl": "http://dummyimage.com/200x300.png/cc0000/ffffff",
+      "rating": 5,
+      "genreId": 3,
+      "authorId": 2,
+      "createdAt": "2022-07-21 09:42:43",
+      "updatedAt": "2022-11-11 18:05:40"
+    },
+    {
+      "id": 3,
+      "title": "Ticket to Paradise",
+      "slug": "ticket-to-paradise",
+      "synopsis": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque. Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus. In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
+      "trailerUrl": "https://www.youtube.com/watch?v=hkP4tVTdsz8&list=PL1DD10E84B9B08A35&index=13",
+      "imgUrl": "http://dummyimage.com/200x300.png/ff4444/ffffff",
+      "rating": 9,
+      "genreId": 5,
+      "authorId": 1,
+      "createdAt": "2022-01-23 08:55:34",
+      "updatedAt": "2021-11-25 14:29:31"
+    },
+    {
+      "id": 4,
+      "title": "Nope",
+      "slug": "nope",
+      "synopsis": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices.",
+      "trailerUrl": "https://www.youtube.com/watch?v=HUgmq_8PlRY&list=PL1DD10E84B9B08A35&index=16",
+      "imgUrl": "http://dummyimage.com/200x300.png/ff4444/fffffj",
+      "rating": 8,
+      "genreId": 4,
+      "authorId": 1,
+      "createdAt": "2022-07-02 08:06:23",
+      "updatedAt": "2022-01-23 00:43:53"
+    },
+    {
+      "id": 5,
+      "title": "Black Panther 2",
+      "slug": "black-panther-2",
+      "synopsis": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo. In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus. Nulla ut erat id mauris vulputate elementum.",
+      "trailerUrl": "https://www.youtube.com/watch?v=sI-pEyVbUdU&list=PL1DD10E84B9B08A35&index=22",
+      "imgUrl": "http://dummyimage.com/200x300.png/ff4444/ffffff",
+      "rating": 7,
+      "genreId": 1,
+      "authorId": 1,
+      "createdAt": "2021-12-22 21:09:16",
+      "updatedAt": "2022-03-25 06:11:53"
+    }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "name": "Action",
+      "createdAt": "2021-12-22 21:09:16",
+      "updatedAt": "2022-03-25 06:11:53"
+    },
+    {
+      "id": 2,
+      "name": "Thriller",
+      "createdAt": "2021-12-22 21:09:16",
+      "updatedAt": "2022-03-25 06:11:53"
+    },
+    {
+      "id": 3,
+      "name": "Fiction",
+      "createdAt": "2021-12-22 21:09:16",
+      "updatedAt": "2022-03-25 06:11:53"
+    },
+    {
+      "id": 4,
+      "name": "Horror",
+      "createdAt": "2021-12-22 21:09:16",
+      "updatedAt": "2022-03-25 06:11:53"
+    },
+    {
+      "id": 5,
+      "name": "Romance",
+      "createdAt": "2021-12-22 21:09:16",
+      "updatedAt": "2022-03-25 06:11:53"
+    }
+  ],
+  "casts": [
+    {
+      "id": 1,
+      "movieId": 1,
+      "name": "Keanu Reeves",
+      "profilePict": "https://dummyimage.com/200x300.png/5fa2dd/fffffx",
+      "createdAt": "2021-12-22 21:09:16",
+      "updatedAt": "2022-03-25 06:11:53"
+    },
+    {
+      "id": 2,
+      "movieId": 2,
+      "name": "Tom Hardy",
+      "profilePict": "https://dummyimage.com/200x300.png/5fa2dd/ffffff",
+      "createdAt": "2021-12-22 21:09:16",
+      "updatedAt": "2022-03-25 06:11:53"
+    },
+    {
+      "id": 3,
+      "movieId": 3,
+      "name": "Saoirse Ronan",
+      "profilePict": "https://dummyimage.com/200x300.png/5fa2dd/fffffs",
+      "createdAt": "2021-12-22 21:09:16",
+      "updatedAt": "2022-03-25 06:11:53"
+    },
+    {
+      "id": 4,
+      "movieId": 4,
+      "name": "Mei Nagano",
+      "profilePict": "https://dummyimage.com/200x300.png/5fa2dd/fffffh",
+      "createdAt": "2021-12-22 21:09:16",
+      "updatedAt": "2022-03-25 06:11:53"
+    },
+    {
+      "id": 5,
+      "movieId": 5,
+      "name": "Han Hyo Joo",
+      "profilePict": "https://dummyimage.com/200x300.png/5fa2dd/fffffo",
+      "createdAt": "2021-12-22 21:09:16",
+      "updatedAt": "2022-03-25 06:11:53"
+    },
+    {
+      "id": 6,
+      "movieId": 1,
+      "name": "Iko Uwais",
+      "profilePict": "https://dummyimage.com/200x300.png/5fa2dd/fffffm",
+      "createdAt": "2021-12-22 21:09:16",
+      "updatedAt": "2022-03-25 06:11:53"
+    }
+  ]
+}
